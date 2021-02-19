@@ -1,5 +1,5 @@
 # DP-and-Fairpick-Against-Mia
-For Adult dataset, the final column is the label. 
+For Adult dataset, the final column is the label(0 or 1). 
 
 The classification task is to determine weather a peroson in the dataset makes over 50k a year.
 
